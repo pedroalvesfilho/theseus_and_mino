@@ -1,4 +1,5 @@
 2019-08-25
+
 ==========
 
 ```
@@ -14,4 +15,9 @@ git remote add origin https://github.com/pedroalvesfilho/theseus_and_mino.git
 git push -u origin master
 
 ```
+
+
+## Run the game
+
+$ python theseus_and_mino.py
 
